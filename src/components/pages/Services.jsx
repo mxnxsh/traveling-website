@@ -1,12 +1,8 @@
-import React from 'react'
-import '../../App.css'
+import React from 'react';
+import '../../App.css';
 
 function Services() {
-    return (
-        <h1 className='services'>
-            Services
-        </h1>
-    )
+  return <h1 className='services'>Services</h1>;
 }
 
-export default Services
+export default Services;
